@@ -1,0 +1,20 @@
+artifact_path: binary_iforest_train_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 876669
+model_uuid: 8e3f46cfccc84709a4f6fdbadb4f83af
+run_id: 4dd0e0d228b442ff84918b665dc87c07
+utc_time_created: '2024-11-05 16:38:47.585344'
