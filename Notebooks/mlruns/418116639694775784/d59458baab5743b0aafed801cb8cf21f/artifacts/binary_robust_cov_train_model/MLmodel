@@ -1,0 +1,20 @@
+artifact_path: binary_robust_cov_train_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 1080283
+model_uuid: ad9d20c481c44e54a9303c906cf43d38
+run_id: d59458baab5743b0aafed801cb8cf21f
+utc_time_created: '2024-11-06 07:38:13.302405'

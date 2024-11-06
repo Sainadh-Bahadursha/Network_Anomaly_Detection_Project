@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/cc39b156541e4bf7a36736fa0acb55b5/artifacts
+deleted_time: 1730865468010
 end_time: 1730830294958
 entry_point_name: ''
 experiment_id: '418116639694775784'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cc39b156541e4bf7a36736fa0acb55b5
 run_name: binary_dbscan
 run_uuid: cc39b156541e4bf7a36736fa0acb55b5

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/d59458baab5743b0aafed801cb8cf21f/artifacts
+end_time: 1730878695507
+entry_point_name: ''
+experiment_id: '418116639694775784'
+lifecycle_stage: active
+run_id: d59458baab5743b0aafed801cb8cf21f
+run_name: binary_robust_cov
+run_uuid: d59458baab5743b0aafed801cb8cf21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730878676876
+status: 3
+tags: []
+user_id: saina

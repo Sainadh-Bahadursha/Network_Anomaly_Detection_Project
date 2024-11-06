@@ -1,0 +1,12 @@
+artifact_path: binary_dbscan_train_model
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 40573509
+model_uuid: fe1d5fe8177c4ad99fb20569554a52fd
+run_id: f3d7500cee9e4ce4831c9c9e203a2bc7
+utc_time_created: '2024-11-05 19:45:54.890359'
