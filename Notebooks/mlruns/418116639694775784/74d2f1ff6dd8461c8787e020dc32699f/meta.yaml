@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/74d2f1ff6dd8461c8787e020dc32699f/artifacts
+end_time: 1730984032513
+entry_point_name: ''
+experiment_id: '418116639694775784'
+lifecycle_stage: active
+run_id: 74d2f1ff6dd8461c8787e020dc32699f
+run_name: Tuned_Gradient_boost_on_Balanced_Dataset
+run_uuid: 74d2f1ff6dd8461c8787e020dc32699f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730983988322
+status: 3
+tags: []
+user_id: saina

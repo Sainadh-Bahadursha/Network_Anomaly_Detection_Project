@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/01738eb98b784cbdb7d760198cbf91c4/artifacts
+end_time: 1730999668441
+entry_point_name: ''
+experiment_id: '418116639694775784'
+lifecycle_stage: active
+run_id: 01738eb98b784cbdb7d760198cbf91c4
+run_name: Tuned_XG_boost_on_Balanced_Dataset
+run_uuid: 01738eb98b784cbdb7d760198cbf91c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730994992523
+status: 3
+tags: []
+user_id: saina

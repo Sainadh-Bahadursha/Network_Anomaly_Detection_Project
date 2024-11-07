@@ -1,0 +1,20 @@
+artifact_path: Tuned_Gradient_boost_on_Balanced_Dataset_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 1091094
+model_uuid: 54ff15271c6a45df8a1c24db32c00c40
+run_id: 74d2f1ff6dd8461c8787e020dc32699f
+utc_time_created: '2024-11-07 12:53:46.414241'
