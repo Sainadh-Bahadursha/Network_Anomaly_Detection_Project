@@ -1,0 +1,20 @@
+artifact_path: Tuned_Adaboost_on_Imbalanced_Dataset_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 502883
+model_uuid: cd27105b4a63420fa5010df92e2f8e12
+run_id: fef41f05732d409f87daa35905022bc7
+utc_time_created: '2024-11-07 12:28:48.606146'

@@ -1,0 +1,20 @@
+artifact_path: Tuned_Logistic_Regression_on_Imbalanced_Dataset_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 2364
+model_uuid: c2db7e8b7939443ab66608795dd23643
+run_id: b4265617934544768cf9d3c8056aa297
+utc_time_created: '2024-11-07 10:08:37.315540'

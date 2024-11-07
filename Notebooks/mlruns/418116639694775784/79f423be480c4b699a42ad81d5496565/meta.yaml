@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/79f423be480c4b699a42ad81d5496565/artifacts
+end_time: 1730981858880
+entry_point_name: ''
+experiment_id: '418116639694775784'
+lifecycle_stage: active
+run_id: 79f423be480c4b699a42ad81d5496565
+run_name: Tuned_Bagging_RF_on_Balanced_Dataset
+run_uuid: 79f423be480c4b699a42ad81d5496565
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730981761313
+status: 3
+tags: []
+user_id: saina
