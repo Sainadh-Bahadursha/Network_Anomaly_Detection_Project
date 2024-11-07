@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/af60498cacad4752b0f02575b5f3df46/artifacts
+end_time: 1730972356792
+entry_point_name: ''
+experiment_id: '418116639694775784'
+lifecycle_stage: active
+run_id: af60498cacad4752b0f02575b5f3df46
+run_name: Simple_Logistic_Regresssion_on_balanced_Dataset
+run_uuid: af60498cacad4752b0f02575b5f3df46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730972335422
+status: 3
+tags: []
+user_id: saina

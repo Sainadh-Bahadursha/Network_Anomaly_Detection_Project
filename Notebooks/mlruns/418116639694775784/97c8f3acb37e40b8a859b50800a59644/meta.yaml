@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/97c8f3acb37e40b8a859b50800a59644/artifacts
+deleted_time: 1730966515502
+end_time: 1730963499349
+entry_point_name: ''
+experiment_id: '418116639694775784'
+lifecycle_stage: deleted
+run_id: 97c8f3acb37e40b8a859b50800a59644
+run_name: binary_kmeans_adv
+run_uuid: 97c8f3acb37e40b8a859b50800a59644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730963399286
+status: 3
+tags: []
+user_id: saina
