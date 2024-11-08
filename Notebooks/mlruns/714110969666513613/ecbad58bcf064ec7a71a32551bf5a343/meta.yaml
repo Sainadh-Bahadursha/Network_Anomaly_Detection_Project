@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/714110969666513613/ecbad58bcf064ec7a71a32551bf5a343/artifacts
+deleted_time: 1731058483954
+end_time: 1731047693234
+entry_point_name: ''
+experiment_id: '714110969666513613'
+lifecycle_stage: deleted
+run_id: ecbad58bcf064ec7a71a32551bf5a343
+run_name: multi_ground_truth_umap
+run_uuid: ecbad58bcf064ec7a71a32551bf5a343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731047688944
+status: 3
+tags: []
+user_id: saina

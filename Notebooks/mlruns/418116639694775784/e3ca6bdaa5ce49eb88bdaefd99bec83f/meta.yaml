@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/418116639694775784/e3ca6bdaa5ce49eb88bdaefd99bec83f/artifacts
+deleted_time: 1731058450406
 end_time: 1730980233421
 entry_point_name: ''
 experiment_id: '418116639694775784'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e3ca6bdaa5ce49eb88bdaefd99bec83f
 run_name: Tuned_Random_Forest_on_Imbalanced_Dataset
 run_uuid: e3ca6bdaa5ce49eb88bdaefd99bec83f

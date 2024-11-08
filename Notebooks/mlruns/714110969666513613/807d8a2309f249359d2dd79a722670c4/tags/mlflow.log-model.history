@@ -1,0 +1,1 @@
+[{"run_id": "807d8a2309f249359d2dd79a722670c4", "artifact_path": "multi_knn_train_model", "utc_time_created": "2024-11-08 10:32:05.885192", "model_uuid": "55508da83a124965ba832895c0387c49", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.5.2", "serialization_format": "cloudpickle", "code": null}}}]

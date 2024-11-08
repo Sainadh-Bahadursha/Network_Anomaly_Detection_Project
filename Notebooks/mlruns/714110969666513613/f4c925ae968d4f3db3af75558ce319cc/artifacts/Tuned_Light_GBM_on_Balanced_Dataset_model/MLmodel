@@ -1,0 +1,20 @@
+artifact_path: Tuned_Light_GBM_on_Balanced_Dataset_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 1563531
+model_uuid: 9f9c6d6d59414ec28976c1cc432afc35
+run_id: f4c925ae968d4f3db3af75558ce319cc
+utc_time_created: '2024-11-08 11:36:10.725068'

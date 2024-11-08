@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/714110969666513613/9888e3f959924e53891fb6877c7d4f16/artifacts
+deleted_time: 1731059982540
+end_time: 1731059519566
+entry_point_name: ''
+experiment_id: '714110969666513613'
+lifecycle_stage: deleted
+run_id: 9888e3f959924e53891fb6877c7d4f16
+run_name: Tuned_Adaboost_on_Imbalanced_Dataset
+run_uuid: 9888e3f959924e53891fb6877c7d4f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731059505973
+status: 3
+tags: []
+user_id: saina

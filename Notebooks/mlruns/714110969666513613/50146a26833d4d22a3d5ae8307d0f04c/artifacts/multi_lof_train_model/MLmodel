@@ -1,0 +1,12 @@
+artifact_path: multi_lof_train_model
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 61268044
+model_uuid: 63ef173a0ac14be3b42cc1308e6e43d3
+run_id: 50146a26833d4d22a3d5ae8307d0f04c
+utc_time_created: '2024-11-08 06:55:56.866076'
