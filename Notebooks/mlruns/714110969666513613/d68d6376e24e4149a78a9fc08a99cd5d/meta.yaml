@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/saina/Desktop/DS_ML_AI/Scaler/Projects_or_Case_Studies_GIT/Network_Anomaly_Detection_Project/Notebooks/mlruns/714110969666513613/d68d6376e24e4149a78a9fc08a99cd5d/artifacts
+deleted_time: 1731147399534
 end_time: 1731137315961
 entry_point_name: ''
 experiment_id: '714110969666513613'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d68d6376e24e4149a78a9fc08a99cd5d
 run_name: multi_iforest
 run_uuid: d68d6376e24e4149a78a9fc08a99cd5d
