@@ -16,43 +16,43 @@ from sklearn.cluster import DBSCAN,KMeans
 from sklearn.ensemble import AdaBoostClassifier
 
 # Load globally
-with open('ohe_encoder.pkl', 'rb') as f:
+with open('Notebooks/ohe_encoder.pkl', 'rb') as f:
     ohe_encoder = pickle.load(f)
 
-with open('service_encoding.pkl', 'rb') as f:
+with open('Notebooks/service_encoding.pkl', 'rb') as f:
     service_encoding = pickle.load(f)
 
-with open('nadp_X_train_binary_scaler.pkl', 'rb') as f:
+with open('Notebooks/nadp_X_train_binary_scaler.pkl', 'rb') as f:
     nadp_X_train_binary_scaler = pickle.load(f)
 
-with gzip.open('nadp_X_train_binary_final.pkl', 'rb') as f:
+with gzip.open('Notebooks/nadp_X_train_binary_final.pkl', 'rb') as f:
     nadp_X_train_binary_final = pickle.load(f)
 
-with open("train_binary_iforest.pkl","rb") as f:
+with open("Notebooks/train_binary_iforest.pkl","rb") as f:
     train_binary_iforest = pickle.load(f)
 
-with open("train_binary_robust_cov.pkl","rb") as f:
+with open("Notebooks/train_binary_robust_cov.pkl","rb") as f:
     train_binary_robust_cov = pickle.load(f)
 
-with open("train_binary_one_class_svm.pkl","rb") as f:
+with open("Notebooks/train_binary_one_class_svm.pkl","rb") as f:
     train_binary_one_class_svm = pickle.load(f)
 
-with open("train_binary_knn.pkl","rb") as f:
+with open("Notebooks/train_binary_knn.pkl","rb") as f:
     train_binary_knn = pickle.load(f)
 
-with open("train_binary_gmm.pkl","rb") as f:
+with open("Notebooks/train_binary_gmm.pkl","rb") as f:
     train_binary_gmm = pickle.load(f)
 
-with open("k_means_scaler.pkl","rb") as f:
+with open("Notebooks/k_means_scaler.pkl","rb") as f:
     k_means_scaler = pickle.load(f)
 
-with open("kmeans_best.pkl","rb") as f:
+with open("Notebooks/kmeans_best.pkl","rb") as f:
     kmeans_best = pickle.load(f)
 
-with open("kmeans_adv_scaler.pkl","rb") as f:
+with open("Notebooks/kmeans_adv_scaler.pkl","rb") as f:
     kmeans_adv_scaler = pickle.load(f)
 
-with open("best_binary_classification_model.pkl","rb") as f:
+with open("Notebooks/best_binary_classification_model.pkl","rb") as f:
     best_binary_classification_model = pickle.load(f)
 
 # import binary_classification_prediction.py as binary_classification_prediction
