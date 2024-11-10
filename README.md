@@ -77,5 +77,4 @@ Classification metrics such as **accuracy**, **precision**, **recall**, and **F1
 5. [Project Video Presentation](https://drive.google.com/file/d/12A06FdNMlJWUX8BSoHqq2FWSkPfG1Ok_/view?usp=sharing)
 6. [Project Part 1 - Medium Blog](https://medium.com/@sainadhbahadursha/end-to-end-network-anomaly-detection-project-from-data-exploration-to-deployment-part-1-76a3e156527e)
 7. [Project Part 2 - Medium Blog](https://medium.com/@sainadhbahadursha/end-to-end-network-anomaly-detection-project-from-data-exploration-to-deployment-part-2-f72892d5e734)
-
-This formatted markdown ensures a clear, professional presentation for your GitHub README.
+8. [Streamlit app link](https://network-anomaly-detection-project-sainadh-bahadursha.streamlit.app/) (App may go to sleep)
