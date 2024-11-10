@@ -51,6 +51,8 @@ Classification metrics such as **accuracy**, **precision**, **recall**, and **F1
 - PR-AUC: 1.0000
 
 ### MULTI-CLASS CLASSIFICATION
+- **Model**: Tuned_Light_GBM_on_Balanced_Dataset
+- **Parameters**: `{'bagging_fraction': np.float64(0.7809345096873808), 'bagging_freq': 9, 'boosting_type': 'gbdt', 'colsample_bytree': np.float64(1.3021969807540397), 'feature_fraction': np.float64(0.5745506436797708), 'learning_rate': np.float64(0.3060660809801552), 'max_depth': 10, 'min_child_samples': 10, 'min_child_weight': np.float64(0.020871568153417244), 'min_data_in_leaf': 82, 'min_split_gain': np.float64(0.08154614284548342), 'n_estimators': 180, 'num_leaves': 52, 'objective': 'binary', 'random_state': 42, 'reg_alpha': np.float64(0.03702232586704518), 'reg_lambda': np.float64(1.0376985928164089), 'scale_pos_weight': np.float64(0.7317381190502594), 'subsample': np.float64(1.3631034258755936)}`
 - **Training Time**: 5.65 seconds
 - **Testing Time**: 1.84 seconds
 - **Tuning Time**: 167.39 seconds
