@@ -1,4 +1,6 @@
 # NETWORK ANOMALY DETECTION PROJECT
+FOR TOTAL CODE JUPYTER NOTEBOOK [CLICK HERE](Notebooks/Network_Anomaly_Detection_Project.ipynb)
+FOR STREAMLIT APP CODE [CLICK HERE](Notebooks/stream_lit_app.py)
 > An anomaly detection system for identifying unusual network behavior using machine learning algorithms in Python. This project offers an end-to-end approach to network anomaly detection, starting with data exploration and visualization in **Tableau**, followed by exploratory data analysis (EDA), hypothesis testing, machine learning modeling with experimental tracking, and concluding with deployment.
 
 ## PROBLEM STATEMENT
