@@ -398,7 +398,7 @@ def multi_classification_prediction(df):
 
 
 # Define Streamlit app
-st.title("Binary Classification Prediction for Network Intrusion")
+st.title("NETWORK ANOMALY DETECTION SYSTEM")
 
 # Create user input fields for each feature
 st.subheader("Input the following network connection features:")
